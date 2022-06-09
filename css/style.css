@@ -1,0 +1,65 @@
+html {
+    background: white;
+}
+
+body {
+    background: url('../img/background.png');
+    width: 1920px;
+    height: 420px;
+}
+.header {
+   padding-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+}
+
+.main_text {
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    padding-top: 50px;
+    letter-spacing: 2.75px
+}
+
+.separator {
+    margin-left: auto;
+    margin-right: auto;
+    width: 232px;
+    
+}
+
+.links {
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    padding-top: 20px;
+}
+
+.img {
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+p.footer {
+    font-family: Open Sans;
+    font-weight: 600;
+    color: white;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-top: 85px;
+}
+
+#Kasper {
+    color: #00c7fc;
+}
